@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preciousLan
 - 👀 I’m interested in turning ideas into reality
-- 🌱 I’m currently learning app development
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on gaining more knowledge
 - ⚡ Fun fact: ... Ideas can be real!
 
